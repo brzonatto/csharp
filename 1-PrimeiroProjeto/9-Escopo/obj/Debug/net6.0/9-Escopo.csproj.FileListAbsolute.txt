@@ -1,0 +1,15 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\bin\Debug\net6.0\9-Escopo.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\bin\Debug\net6.0\9-Escopo.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\bin\Debug\net6.0\9-Escopo.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\bin\Debug\net6.0\9-Escopo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\bin\Debug\net6.0\ref\9-Escopo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\bin\Debug\net6.0\9-Escopo.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.csproj.AssemblyReference.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\ref\9-Escopo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\9-Escopo\obj\Debug\net6.0\9-Escopo.genruntimeconfig.cache

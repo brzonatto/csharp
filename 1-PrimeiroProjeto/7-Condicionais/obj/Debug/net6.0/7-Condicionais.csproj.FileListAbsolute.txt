@@ -1,0 +1,15 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\bin\Debug\net6.0\7-Condicionais.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\bin\Debug\net6.0\7-Condicionais.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\bin\Debug\net6.0\7-Condicionais.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\bin\Debug\net6.0\7-Condicionais.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\bin\Debug\net6.0\ref\7-Condicionais.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\bin\Debug\net6.0\7-Condicionais.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\ref\7-Condicionais.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.genruntimeconfig.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\7-Condicionais\obj\Debug\net6.0\7-Condicionais.csproj.AssemblyReference.cache

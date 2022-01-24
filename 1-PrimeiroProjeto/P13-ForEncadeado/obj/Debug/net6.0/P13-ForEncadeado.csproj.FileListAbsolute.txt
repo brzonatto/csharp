@@ -1,0 +1,14 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net6.0\P13-ForEncadeado.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net6.0\P13-ForEncadeado.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net6.0\P13-ForEncadeado.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net6.0\P13-ForEncadeado.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net6.0\ref\P13-ForEncadeado.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\bin\Debug\net6.0\P13-ForEncadeado.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\ref\P13-ForEncadeado.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P13-ForEncadeado\obj\Debug\net6.0\P13-ForEncadeado.genruntimeconfig.cache

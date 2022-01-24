@@ -1,0 +1,15 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\net6.0\ref\2-CriandoVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CriandoVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.genruntimeconfig.cache

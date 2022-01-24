@@ -1,0 +1,15 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\ref\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache

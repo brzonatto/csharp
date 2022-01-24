@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60ea6f89-f541-4938-aecf-ff696ec8ecf5": {
+      "ProjectGuid": "60ea6f89-f541-4938-aecf-ff696ec8ecf5",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "a0c9b8d9-43a1-4ff4-99f5-6d2c5c043d18": {
+      "ProjectGuid": "a0c9b8d9-43a1-4ff4-99f5-6d2c5c043d18",
+      "DisplayName": "2-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "75c0e004-a489-4fcb-a202-dd93fa7ef0be": {
+      "ProjectGuid": "75c0e004-a489-4fcb-a202-dd93fa7ef0be",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "bb2df20e-87a0-4f40-b121-813ecb8f87ee": {
+      "ProjectGuid": "bb2df20e-87a0-4f40-b121-813ecb8f87ee",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 3
+    },
+    "e30fb705-bba9-4ecf-bbf2-41165945a6b1": {
+      "ProjectGuid": "e30fb705-bba9-4ecf-bbf2-41165945a6b1",
+      "DisplayName": "5-CaracteresETextos",
+      "ColorIndex": 4
+    },
+    "c85a6f5e-d09b-42c5-af4d-b489d17a3545": {
+      "ProjectGuid": "c85a6f5e-d09b-42c5-af4d-b489d17a3545",
+      "DisplayName": "6-AtribuicoesDeVariaveis",
+      "ColorIndex": 5
+    },
+    "be1f7488-326b-4f26-adac-edf893cec027": {
+      "ProjectGuid": "be1f7488-326b-4f26-adac-edf893cec027",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 6
+    },
+    "4459543f-16c0-469c-833e-86f8248658c9": {
+      "ProjectGuid": "4459543f-16c0-469c-833e-86f8248658c9",
+      "DisplayName": "8-Condicionais2",
+      "ColorIndex": 7
+    },
+    "ab1c73d6-0f15-4f19-9fe6-c92f417351ec": {
+      "ProjectGuid": "ab1c73d6-0f15-4f19-9fe6-c92f417351ec",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 8
+    },
+    "83915df1-7a2d-40f7-a6ac-5fd0659139d2": {
+      "ProjectGuid": "83915df1-7a2d-40f7-a6ac-5fd0659139d2",
+      "DisplayName": "P10-CalculaPoupanca",
+      "ColorIndex": 9
+    },
+    "489d692f-99af-4186-9688-7b9f25c1f74b": {
+      "ProjectGuid": "489d692f-99af-4186-9688-7b9f25c1f74b",
+      "DisplayName": "P10-CalculaPoupanca",
+      "ColorIndex": 10
+    },
+    "7faa5e6c-dfd2-41a7-b696-549515b37ff4": {
+      "ProjectGuid": "7faa5e6c-dfd2-41a7-b696-549515b37ff4",
+      "DisplayName": "P11-CalculaPoupanca2",
+      "ColorIndex": 11
+    },
+    "ad4a3ec2-a7d8-454b-931b-5f207e8d5a20": {
+      "ProjectGuid": "ad4a3ec2-a7d8-454b-931b-5f207e8d5a20",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 12
+    },
+    "151ccbbc-d07d-43ed-85ab-bc9afaeaa20f": {
+      "ProjectGuid": "151ccbbc-d07d-43ed-85ab-bc9afaeaa20f",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

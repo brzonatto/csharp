@@ -1,0 +1,15 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\net6.0\5-CaracteresETextos.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\net6.0\5-CaracteresETextos.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\net6.0\5-CaracteresETextos.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\net6.0\5-CaracteresETextos.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\net6.0\ref\5-CaracteresETextos.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\bin\Debug\net6.0\5-CaracteresETextos.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\ref\5-CaracteresETextos.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\5-CaracteresETextos\obj\Debug\net6.0\5-CaracteresETextos.genruntimeconfig.cache

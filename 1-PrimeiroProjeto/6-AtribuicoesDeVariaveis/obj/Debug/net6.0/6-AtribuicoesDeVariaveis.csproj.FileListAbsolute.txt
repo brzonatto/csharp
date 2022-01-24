@@ -1,0 +1,15 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\ref\6-AtribuicoesDeVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\bin\Debug\net6.0\6-AtribuicoesDeVariaveis.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\ref\6-AtribuicoesDeVariaveis.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\6-AtribuicoesDeVariaveis\obj\Debug\net6.0\6-AtribuicoesDeVariaveis.genruntimeconfig.cache

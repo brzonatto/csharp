@@ -1,0 +1,14 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\net6.0\ref\P10-CalculaPoupanca.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\bin\Debug\net6.0\P10-CalculaPoupanca.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\ref\P10-CalculaPoupanca.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P10-CalculaPoupanca\obj\Debug\net6.0\P10-CalculaPoupanca.genruntimeconfig.cache

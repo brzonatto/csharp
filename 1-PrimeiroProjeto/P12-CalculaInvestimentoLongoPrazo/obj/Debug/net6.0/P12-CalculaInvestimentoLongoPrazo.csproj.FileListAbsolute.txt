@@ -1,0 +1,14 @@
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.exe
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.deps.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\ref\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\ref\P12-CalculaInvestimentoLongoPrazo.dll
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.pdb
+C:\Users\brunno.zonatto\source\repos\1-PrimeiroProjeto\P12-CalculaInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculaInvestimentoLongoPrazo.genruntimeconfig.cache
