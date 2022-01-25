@@ -13,3 +13,18 @@ C:\Users\brunno.zonatto\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank
 C:\Users\brunno.zonatto\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
 C:\Users\brunno.zonatto\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
 C:\Users\brunno.zonatto\source\repos\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\bin\Debug\net6.0\ref\ByteBank.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache

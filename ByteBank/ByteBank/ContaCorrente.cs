@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ByteBank.Exceptions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,26 +9,13 @@ namespace ByteBank
 {
     public class ContaCorrente
     {
+        public static double TaxaOperacao { get; set; }
         public Cliente Cliente { get; set; }
-        public int Numero { get; set; }
+        public int Numero { get; }
         public static int QuantidadeDeContas { get; private set; }
-
-        private int _agencia;
-        public int Agencia
-        {
-            get
-            {
-                return _agencia;
-            }
-            set
-            {
-                if (value <= 0)
-                {
-                    return;
-                }
-                _agencia = value;
-            }
-        }
+        public int Agencia { get; }
+        public int CountSaquesNaoPermitidos { get; private set; }
+        public int CountTransferenciasNaoPermitidas { get; private set; }
 
         private double _saldo = 100;
         public double Saldo
@@ -48,20 +36,36 @@ namespace ByteBank
 
         public ContaCorrente(int numero, int agencia)
         {
+            if (agencia <= 0)
+            {
+                throw new ArgumentException("A agência deve ser maior que ZERO.", nameof(agencia));                 
+            }
+
+            if (numero <= 0)
+            {
+                throw new ArgumentException("O número deve ser maior que ZERO.", nameof(numero));
+            }            
+
             Numero = numero;
             Agencia = agencia;
 
             QuantidadeDeContas++;
+            TaxaOperacao = 30 / QuantidadeDeContas; 
         }
 
-        public bool Sacar(double valor)
+        public void Sacar(double valor)
         {
+            if (valor <= 0)
+            {
+                throw new ArgumentException("O valor do saque deve se maior que ZERO.", nameof(valor));
+            }
+
             if (_saldo < valor)
             {
-                return false;
+                CountSaquesNaoPermitidos++;
+                throw new SaldoInsuficienteException(Saldo, valor); 
             }
-            _saldo -= valor;
-            return true;
+            _saldo -= valor;           
         }
 
         public void Depositar(double valor)
@@ -69,15 +73,24 @@ namespace ByteBank
             _saldo += valor;
         }
 
-        public bool Transferir(int valor, ContaCorrente contaDestino)
+        public void Transferir(int valor, ContaCorrente contaDestino)
         {
-            if (_saldo < valor)
+            if (valor <= 0)
             {
-                return false;
+                throw new ArgumentException("O valor da trânsferencia deve se maior que ZERO.", nameof(valor));
             }
-            Sacar(valor);
-            contaDestino.Depositar(valor);
-            return true;
+
+            try
+            {
+                Sacar(valor);
+            }
+            catch (SaldoInsuficienteException e)
+            {
+                CountTransferenciasNaoPermitidas++;
+                throw new OperacaoFinanceiraException("Operação não realizada.", e);
+            }
+            
+            contaDestino.Depositar(valor);            
         }
 
         public string ImprimeConta()

@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\brunno.zonatto\\.nuget\\packages\\": {},
+    "C:\\Users\\brzon\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brunno.zonatto\\source\\repos\\ByteBank\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "C:\\Users\\brzon\\Desktop\\Trilha C#\\csharp\\ByteBank\\ByteBank\\ByteBank.csproj",
       "projectName": "ByteBank",
-      "projectPath": "C:\\Users\\brunno.zonatto\\source\\repos\\ByteBank\\ByteBank\\ByteBank.csproj",
-      "packagesPath": "C:\\Users\\brunno.zonatto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brunno.zonatto\\source\\repos\\ByteBank\\ByteBank\\obj\\",
+      "projectPath": "C:\\Users\\brzon\\Desktop\\Trilha C#\\csharp\\ByteBank\\ByteBank\\ByteBank.csproj",
+      "packagesPath": "C:\\Users\\brzon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brzon\\Desktop\\Trilha C#\\csharp\\ByteBank\\ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\brunno.zonatto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brzon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

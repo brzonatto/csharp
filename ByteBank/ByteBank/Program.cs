@@ -1,4 +1,5 @@
 ﻿using ByteBank;
+using ByteBank.Exceptions;
 using ByteBank.Funcionarios;
 using ByteBank.Sistemas;
 
@@ -53,7 +54,55 @@ using ByteBank.Sistemas;
 
 //CalcularBonificacao();
 
-UsuarSistema();
+//UsuarSistema();
+
+//try
+//{
+//    ContaCorrente conta = new ContaCorrente(58, 515);
+//    ContaCorrente conta2 = new ContaCorrente(515, 15166);
+
+//    conta2.Transferir(10000, conta);
+
+//    Console.WriteLine(conta.Saldo);
+//    conta.Sacar(-500);
+//    Console.WriteLine(conta.Saldo);
+//}
+//catch (ArgumentException e)
+//{
+//    Console.WriteLine($"Argumento com problema: {e.ParamName}");
+//    Console.WriteLine(e.Message);
+//}
+//catch (SaldoInsuficienteException e)
+//{
+//    Console.WriteLine(e.Saldo);
+//    Console.WriteLine(e.ValorSaque);
+
+//    Console.WriteLine(e.StackTrace);
+
+//    Console.WriteLine(e.Message);
+//}
+//catch(Exception e)
+//{
+//    Console.WriteLine(e.Message); ;
+//}
+
+try
+{
+    ContaCorrente cc1 = new ContaCorrente(123, 4567);
+    ContaCorrente cc2 = new ContaCorrente(321, 7654);
+
+    cc1.Transferir(10000, cc2);
+    //cc2.Sacar(5000);
+}
+catch (OperacaoFinanceiraException e)
+{
+    Console.WriteLine(e.Message);
+    Console.WriteLine(e.StackTrace);
+
+    //Console.WriteLine("Informações da INNER EXCEPTION (exceção interna): ");    
+}
+
+
 
 
 void UsuarSistema()
