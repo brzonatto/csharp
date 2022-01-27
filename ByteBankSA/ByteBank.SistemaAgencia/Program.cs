@@ -1,5 +1,4 @@
-﻿using ByteBank.Funcionarios;
-using Humanizer;
+﻿using Humanizer;
 using System;
 
 namespace ByteBank.SistemaAgencia
