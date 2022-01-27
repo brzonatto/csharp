@@ -88,22 +88,68 @@ using ByteBank.Sistemas;
 
 try
 {
-    ContaCorrente cc1 = new ContaCorrente(123, 4567);
-    ContaCorrente cc2 = new ContaCorrente(321, 7654);
-
-    cc1.Transferir(10000, cc2);
-    //cc2.Sacar(5000);
+    CarregarContas();
 }
-catch (OperacaoFinanceiraException e)
+catch (Exception)
 {
-    Console.WriteLine(e.Message);
-    Console.WriteLine(e.StackTrace);
 
-    //Console.WriteLine("Informações da INNER EXCEPTION (exceção interna): ");    
+    Console.WriteLine("CATCH NO METODO MAIN");
 }
 
+Console.WriteLine("\n\nDigite qualquer tecla para finalizar...");
+Console.ReadLine();
 
 
+void CarregarContas()
+{
+    using (LeitorDeArquivos leitor = new LeitorDeArquivos("teste.txt"))
+    {
+        leitor.LerProximaLinha();
+    }
+
+
+    //-----------------------------------
+
+    //LeitorDeArquivos leitor = null;
+
+    //try
+    //{     
+    //    leitor = new LeitorDeArquivos("contas.txt");
+
+    //    leitor.LerProximaLinha();
+    //    leitor.LerProximaLinha();
+    //    leitor.LerProximaLinha();        
+    //}
+    //catch (IOException)
+    //{        
+    //    Console.WriteLine("Exceção do tipo IOException capturada e tratada.");
+    //}
+    //finally
+    //{
+    //    if (leitor != null)
+    //        leitor.Fechar();
+    //}
+    
+}
+
+void TestaInnerException()
+{
+    try
+    {
+        ContaCorrente cc1 = new ContaCorrente(123, 4567);
+        ContaCorrente cc2 = new ContaCorrente(321, 7654);
+
+        cc1.Transferir(10000, cc2);
+        //cc2.Sacar(5000);
+    }
+    catch (OperacaoFinanceiraException e)
+    {
+        Console.WriteLine(e.Message);
+        Console.WriteLine(e.StackTrace);
+
+        //Console.WriteLine("Informações da INNER EXCEPTION (exceção interna): ");    
+    }
+}
 
 void UsuarSistema()
 {

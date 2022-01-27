@@ -1,0 +1,14 @@
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\bin\Debug\net5.0\ByteBank.Modelos.deps.json
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\bin\Debug\net5.0\ByteBank.Modelos.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\bin\Debug\net5.0\ref\ByteBank.Modelos.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\bin\Debug\net5.0\ByteBank.Modelos.pdb
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ref\ByteBank.Modelos.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.pdb
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\bin\Debug\net5.0\ByteBank.Modelos.xml
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankSA\ByteBank.Modelos\obj\Debug\net5.0\ByteBank.Modelos.xml
