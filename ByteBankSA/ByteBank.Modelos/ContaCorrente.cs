@@ -10,7 +10,7 @@ namespace ByteBank
     /// <summary>
     /// Define uma Conta Corrente do banco ByteBank.
     /// </summary>
-    public class ContaCorrente
+    public class ContaCorrente : IComparable
     {
         public static double TaxaOperacao { get; set; }
         public Cliente Cliente { get; set; }
@@ -108,12 +108,44 @@ namespace ByteBank
             contaDestino.Depositar(valor);            
         }
 
+        public override bool Equals(object obj)
+        {
+            ContaCorrente outraConta = obj as ContaCorrente;
+
+            if (outraConta == null)
+                return false;
+
+            if (Numero == outraConta.Numero && Agencia == outraConta.Agencia)
+                return true;
+
+            return false;
+        }
+
         public string ImprimeConta()
         {
             return $"Nome: {Cliente.Nome} | CPF: {Cliente.Cpf} | Profissão: {Cliente.Profissao}\n" +
                 $"Agência: {Agencia}\n" +
                 $"Número: {Numero}\n" +
                 $"Saldo: R${_saldo}\n";
+        }
+
+        public override string ToString()
+        {
+            return $"Agência: {Agencia}\n" +
+                   $"Número: {Numero}\n" +
+                   $"Saldo: R${Saldo}\n";
+        }
+
+        public int CompareTo(object obj)
+        {
+            var outraConta = obj as ContaCorrente;
+
+            if (Numero < outraConta.Numero || outraConta == null)
+                return -1;
+            if (Numero == outraConta.Numero)
+                return 0;
+            
+            return 1;
         }
     }
 }

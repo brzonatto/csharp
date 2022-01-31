@@ -1,0 +1,16 @@
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ByteBankImportacaoExportacao.exe
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ByteBankImportacaoExportacao.deps.json
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ByteBankImportacaoExportacao.runtimeconfig.json
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ByteBankImportacaoExportacao.runtimeconfig.dev.json
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ByteBankImportacaoExportacao.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ref\ByteBankImportacaoExportacao.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\net5.0\ByteBankImportacaoExportacao.pdb
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.AssemblyInfoInputs.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.AssemblyInfo.cs
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ref\ByteBankImportacaoExportacao.dll
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.pdb
+C:\Users\brzon\Desktop\Trilha C#\csharp\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\net5.0\ByteBankImportacaoExportacao.genruntimeconfig.cache
